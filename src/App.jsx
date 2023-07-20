@@ -1,10 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Name from './components/Name';
+import Testimony from './components/Testimony';
+import Tanya from '/image-tanya.jpg';
+import styles from './App.module.css';
 
-function App() {
-  
+
+export default function App() {
+  return (
+    <div className={styles.app}>
+      <img className={styles.image} src={Tanya}/>
+      <Testimony />
+      <Name />
+    </div>
+  )
 }
-
-export default App
