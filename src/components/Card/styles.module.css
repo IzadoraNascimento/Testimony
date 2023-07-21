@@ -1,10 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.app {
+.container {
   background-color: #f3f3fb;
   min-height: 100vh;
   text-align: center;
@@ -13,7 +7,7 @@
 .image {
   width: 80%;
   height: 100%;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 40px;
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
   object-fit: cover;
