@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Card from './components/Card';
 import Tanya from '../public/image-tanya.jpg';
 import John from '../public/image-john.jpg';
+import Izadora from '../public/image-izadora.jpeg'
 
 function App() {
   // estado para acompanhar o índice do card atual
@@ -11,6 +12,7 @@ function App() {
   const cardsData = [
     { name: "Tanya Sinclair", image: Tanya, subtitle: "UX Enginner" },
     { name: "John Tarkpor", image: John, subtitle: "Junior Front-end Developer" },
+    {name: "Izadora Santos", image: Izadora, subtitle: "Front-end Developer" },
   ];
 
   // função para avançar para o próximo card

@@ -10,7 +10,7 @@ export default function Card({image, name, subtitle, prevCard, nextCard}){
       <div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, ullam exercitationem sed a, dolorem cupiditate ut aut doloremque quos voluptates eius. Hic adipisci eos quo eum mollitia rerum repudiandae? Optio.</p>
         <h2>{name}</h2>
-        <p>{subtitle}</p>
+        <span>{subtitle}</span>
       </div>
     </div>
   )
