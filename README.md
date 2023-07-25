@@ -1,12 +1,12 @@
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral]
    - [O desafio](#o-desafio)
-   - [Captura de tela](#captura de tela)
+   - [Captura de tela]
 - [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
+   - [Construído com]
    - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+   - [Desenvolvimento contínuo]
    - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
 
