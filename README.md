@@ -44,8 +44,8 @@ Continuar usando o React e aplicar mais funcionalidades com o JavaScript.
 
 ### Recursos úteis
 
-- [Exemplo de recurso 1](https://cursos.onebitcode.com/) - Isso me ajudou, pois consegui aplicar o uso do React e MobileFirst. 
+- [OneBitCode](https://cursos.onebitcode.com/) - Isso me ajudou, pois consegui aplicar o uso do React e MobileFirst. 
 
 ## Autor
 
-- LinkedIn - [Izadora Santos Nascimento](www.linkedin.com/in/izadorasantosn)
+- LinkedIn - [Izadora Santos Nascimento](https://www.linkedin.com/in/izadorasantosn/)
